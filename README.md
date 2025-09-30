@@ -95,7 +95,7 @@ Check ✅ the modules as you complete them!
 ---
 
 ## 🚀 Overall Progress
-![Progress](https://progress-bar.dev/0/?scale=62&title=progress&width=500&color=blue)
+[![Progress 1.3%](https://img.shields.io/badge/progress-1.3%25-blue)]()
 
 
 ---
