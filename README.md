@@ -103,7 +103,7 @@ Check ✅ the modules as you complete them!
 ## 📂 Module Progress
 
 ### 🟢 Foundations
-- [ ] 01 – Setup  
+- [✅] 01 – Setup  
 - [ ] 02 – Basics  
 - [ ] 03 – Conditionals  
 - [ ] 04 – Loops  
