@@ -9,7 +9,7 @@ int main(){
     if(n%2 == 0){
       cout << "The given number is Even";
     }
-    
+
     else{
       cout << "The given number is Odd";
     }
@@ -18,4 +18,5 @@ int main(){
   else{
     cout << "Wrong input";
   }
+  return 0;
 }
