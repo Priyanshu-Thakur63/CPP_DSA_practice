@@ -104,8 +104,8 @@ Check ✅ the modules as you complete them!
 
 ### 🟢 Foundations
 - [✅] 01 – Setup  
-- [ ] 02 – Basics  
-- [ ] 03 – Conditionals  
+- [✅] 02 – Basics  
+- [✅] 03 – Conditionals  
 - [ ] 04 – Loops  
 - [ ] 05 – Patterns  
 - [ ] 06 – Functions  
