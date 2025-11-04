@@ -1,4 +1,4 @@
-// Printing alphabets Upper case with their ascii value
+// Printing alphabets Lower case with their ascii value
 
 #include<iostream>
 using namespace std;
