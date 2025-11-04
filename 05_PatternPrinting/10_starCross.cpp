@@ -1,3 +1,11 @@
+// Enter a odd number : 5
+// *       * 
+//   *   *
+//     *
+//   *   *
+// *       *
+
+
 #include<iostream>
 using namespace std;
 
